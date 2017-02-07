@@ -1,7 +1,5 @@
 # marttis
-Tollanen pikku peli, jostain pitää GitHub ura aloittaa
-
-Tuollainen simppeli peli, jota tietokone pelaa virheettömästi.
+Tollanen pikku peli, jostain pitää GitHub ura aloittaa... :)
 
 QtCreator 4.2.1 (Qt 5.8.0 64bit) projektin voi avata suoraan, Qt kannattaa laittaa myös PATHiin.
 
