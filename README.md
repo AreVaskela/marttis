@@ -5,6 +5,8 @@ QtCreator 4.2.1 (Qt 5.8.0 64bit) projektin voi avata suoraan, Qt kannattaa laitt
 
 Standalonen saa kun Qt:n tekemässä releasessa laittaa: "windeployqt .\release\" käyttää exeä release kansiosta.
 
+Nämä ohjeet näkyvät paremmin tekstieditorissa, tehtävänanto oli vähän pidempi, mutta en laita tähän ihan kokonaan, jos tätä vaikka joku käyttää vielä uusiksi.
+
 1. Players are arranged in a ring. Let the first player be 1, and the last N,
    clockwise. Player 1 starts the game.
 
