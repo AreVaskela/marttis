@@ -15,7 +15,7 @@ marttis::~marttis()
 
 void marttis::on_aloitaButton_clicked()
 {
-    int t = pelaajiaInput.toInt(); //total
+    int t = pelaajiaInput.toInt(); //total (git test)
     int krs = kierroksiaInput.toInt();
 
     if(t<1 || krs<1){ //input-virheiden käsittely
